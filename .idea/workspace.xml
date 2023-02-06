@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b650487-c0f3-4231-af95-34f14f2fe9c6" name="Changes" comment="">
+    <list default="true" id="9b650487-c0f3-4231-af95-34f14f2fe9c6" name="Changes" comment="Novo App Todo List">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/todoList/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,11 +109,35 @@
       <updated>1675473547742</updated>
       <workItem from="1675473550123" duration="642000" />
       <workItem from="1675474401948" duration="1478000" />
-      <workItem from="1675703900125" duration="4773000" />
+      <workItem from="1675703900125" duration="5446000" />
     </task>
+    <task id="LOCAL-00001" summary="Novo App Todo List">
+      <created>1675708930540</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675708930540</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <MESSAGE value="Novo App Todo List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Novo App Todo List" />
   </component>
 </project>
